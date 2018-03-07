@@ -1,0 +1,10 @@
+O programa foi corrido no Ubuntu 1.16.04.2 com 64 bits e em fedora 25 com 64-bit , Gnome : Versão 3.22.2
+
+A liguagem usada foi compilada em:
+openjdk version "1.8.0_121"
+OpenJDK Runtime Environment (build 1.8.0_121-8u121-b13-0ubuntu1.16.04.2-b13)
+OpenJDK 64-Bit Server VM (build 25.121-b13, mixed mode)
+
+openjdk version "1.8.0_121"
+OpenJDK Runtime Environment (build 1.8.0_121-b14)
+OpenJDK 64-Bit Server VM (build 25.121-b14, mixed mode)
