@@ -1,0 +1,29 @@
+**Depois adicionar e alterar no word**
+
+Introdução
+Descrição dos jogos e algoritmos adversários para resolvê-los.
+
+Algoritmo Minimax
+Descrição
+
+Alpha-Beta Pruning
+Descrição
+
+Conecte quatro
+Descrição do jogo, regras e funções de avaliação.
+
+Minimax e Alpha-beta aplicados ao Connect Four
+Discussão sobre os dois algoritmos aplicados ao jogo. Descrição da implementação.
+Estruturas de dados utilizadas, função de avaliação utilizada. Resultados e número de
+nodos podados pela pesquisa em comparação com o minimax. Você também deve mencionar se você
+impôs um limite de profundidade e qual é esse limite.
+Mostrar curvas de desempenho (tempos de execução e número de nós expandidos) para ambos
+algoritmos por movimento de cada computador (o eixo X é o movimento do computador e o eixo Y é
+o tempo de execução ou o número de nós expandidos).
+
+Comentários finais e conclusões
+Comente sobre o desempenho de ambos os algoritmos.
+
+Bibliografia
+Não se esqueça de citar as referências bibliográficas no texto. Se você usa figuras ou texto
+De outras fontes, você deve citar essa fonte e listá-la nesta seção.
