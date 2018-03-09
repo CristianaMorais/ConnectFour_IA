@@ -9,8 +9,10 @@ Descrição
 Alpha-Beta Pruning
 Descrição
 
-Conecte quatro
+Connect Four
 Descrição do jogo, regras e funções de avaliação.
+
+O Quatro em Linha, tambem conhecido como Connect Four, é um jogo em que ha dois adversários...
 
 Minimax e Alpha-beta aplicados ao Connect Four
 Discussão sobre os dois algoritmos aplicados ao jogo. Descrição da implementação.
@@ -25,5 +27,8 @@ Comentários finais e conclusões
 Comente sobre o desempenho de ambos os algoritmos.
 
 Bibliografia
-Não se esqueça de citar as referências bibliográficas no texto. Se você usa figuras ou texto
-De outras fontes, você deve citar essa fonte e listá-la nesta seção.
+
+- https://en.wikipedia.org/wiki/Connect_Four
+Página alterada pela última vez a 7 de Março 2018, às 06:28.
+
+https://en.wikipedia.org/wiki/Connect_Four#/media/File:Connect_4_Board_and_Box.jpg
