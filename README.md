@@ -4,7 +4,7 @@
 ###### [Sara Sousa - up201504217]
 
 # **Connect Four**
-Mais conhecido como jogo dos 4 em linha, o connect four consiste em um jogador jogar contra uma máquina com o objetivo de colocar quatro peças numa linha contínua vertical, horizontal ou diagonalmente. 
+Mais conhecido como jogo dos 4 em linha, o connect four consiste em um jogador jogar contra uma máquina, com o objetivo de colocar quatro peças numa linha contínua vertical, horizontal ou diagonalmente, ganhar.  
 O jogador tem a opção de escolher se a máquina utiliza o algoritmo AlfaBeta ou MinMax.
 
 ### Compilação
