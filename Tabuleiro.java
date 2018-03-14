@@ -31,8 +31,8 @@ class Tabuleiro {
 
     private static final char r = '-';
 
-    public static final char COMPUTER = 'X';
-    public static final char PERSON = 'O';
+    public static final char COMPUTER = 'O';
+    public static final char PERSON = 'X';
 
     public char[][] tab;
     private char Utilizador;
