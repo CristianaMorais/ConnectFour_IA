@@ -10,7 +10,7 @@ O jogador tem a opção de escolher se a máquina utiliza o algoritmo AlfaBeta o
 ### Compilação
 Depois de ter feito *cd* para a pasta do trabalho, efetuar o seguinte comando:
 ```Shell
-$ javac *.java && java ConnectFour.java
+$ javac *.java && java ConnectFour
 ```
 
 ### Exemplo
