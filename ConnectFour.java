@@ -54,14 +54,14 @@ public class ConnectFour {
       
       long startTime = System.currentTimeMillis();
 
-      if(algoritmo == 4)
+      if(algoritmo == 2)
         jogada = c1.Decisao(jogada);
       
       else
         jogada = c2.Decisao(jogada);
       System.out.println((double)(System.currentTimeMillis() - startTime) / 1000.0 + " segundos.");
       
-      if(algoritmo == 4)
+      if(algoritmo == 2)
         System.out.println(c1.nos+" nos visitados.");
       
       else
