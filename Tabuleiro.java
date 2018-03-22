@@ -1,4 +1,4 @@
-//alterar o X e O do jogo
+//alterar o X e O do jogo como está no 1
 
 import java.util.LinkedList;
 
@@ -33,8 +33,8 @@ class Tabuleiro {
 
     private static final char r = '-';
 
-    public static final char COMPUTER = 'O';
-    public static final char PERSON = 'X';
+    public static final char COMPUTER = 'O'; //1
+    public static final char PERSON = 'X';  //1
 
     public char[][] tab;
     private char Utilizador;
