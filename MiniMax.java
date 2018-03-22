@@ -1,4 +1,4 @@
-class MiniMax2 {
+class MiniMax{
 
     public int nos;
     private int profundidade_maxima;
