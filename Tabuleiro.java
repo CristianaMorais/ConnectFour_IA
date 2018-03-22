@@ -1,4 +1,4 @@
-//alterar o X e O do jogo como está no 1
+//alterar o X e O do jogo como está em 1
 
 import java.util.LinkedList;
 
