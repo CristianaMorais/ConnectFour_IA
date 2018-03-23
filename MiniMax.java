@@ -2,7 +2,7 @@ class MiniMax{
 
     public int nos;
     private int profundidade_maxima;
-    private Tabuleiro ult; //ultimo movimento feito ?????
+    private Tabuleiro ult; //ultimo movimento feito
 
     MiniMax (int p){
         ult = null;
@@ -47,7 +47,7 @@ class MiniMax{
 
     private int MAX_VALUE(Tabuleiro tab_inicial,int altura){
       
-	if(tab_inicial.vencer(altu) || altu >= profundidade_maxima || tab_inicial.isFull()){
+	if(tab_inicial.vencer(altura) || altura >= profundidade_maxima || tab_inicial.isFull()){
 	    return tab_inicial.UTILITY();
 	}
       
@@ -56,7 +56,7 @@ class MiniMax{
       
 	for(Tabuleiro target : tab_inicial.nextMovimento()){
 	    nos++;
-	    int a = MIN_VALUE(target,altu+1);
+	    int a = MIN_VALUE(target,altura+1);
 	
 	    if(max < a || (max == a && sitio_altura > target.solucao)) {
 		max = a;
