@@ -1,7 +1,13 @@
 **Depois adicionar e alterar no word**
 
 Introdução
-Descrição dos jogos e algoritmos adversários para resolvê-los.
+//verificar
+Um jogo com oponentes, consistem num jogo em que há pelo menos dois
+jogadores e que estes efetuam jogadas com base em estratégias de forma a
+chegar a uma solução ótima, neste caso a vitória.
+São estes tipos de relações que estão na base do estudo da teoria dos jogos, uma
+abordagem matemática que estuda estas situações estratégicas. Inicialmente as
+discussões em torno deste tema partiram de soluções de estratégia puras(adicionar os algoritmos)
 
 Algoritmo Minimax
 Descrição
