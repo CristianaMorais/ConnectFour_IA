@@ -1,17 +1,34 @@
-# *Inteligencia Artificial - 2018*
-##### Trabalho realizado por:
-###### [Cristiana Silva - up201505454]
-###### [Sara Sousa - up201504217]
+# Connect Four AI 🔴🟡
+Artificial Intelligence Course | 2018
 
-# **Connect Four**
-Mais conhecido como jogo dos 4 em linha, o connect four consiste em um jogador jogar contra uma máquina, com o objetivo de colocar quatro peças numa linha contínua vertical, horizontal ou diagonalmente, ganhar.  
-O jogador tem a opção de escolher se a máquina utiliza o algoritmo AlfaBeta ou MinMax.
+👥 Authors
+> Cristiana Silva (up201505454)
 
-### Compilação
-Depois de ter feito *cd* para a pasta do trabalho, efetuar o seguinte comando:
-```Shell
+> Sara Sousa (up201504217)
+
+# 📖 Project Overview
+This project is an implementation of the classic Connect Four game, developed with a focus on Artificial Intelligence. The game allows a human user to play against a computer agent.
+
+The objective is simple: be the first to place four of your colored discs in a row—whether horizontally, vertically, or diagonally.
+
+# 🤖 AI Algorithms
+To power the computer's decision-making, the project implements two classic search algorithms. Users can choose which one the machine utilizes:
+
+> Minimax: A recursive algorithm for choosing the next move in an n-player game.
+
+> Alpha-Beta Pruning: An optimized version of Minimax that reduces the number of nodes evaluated in the search tree, allowing for faster and deeper lookahead.
+
+# 🛠️ Installation & Usage
+## Prerequisites
+Java Development Kit (JDK) installed on your machine.
+
+## Running the Game
+Open your terminal or command prompt.
+
+Navigate to the project's root folder.
+
+Compile and run the program using the following command:
+
+```bash
 $ javac *.java && java ConnectFour
 ```
-
-### Exemplo
-//Depois do programa funcionar a 100% colocar
