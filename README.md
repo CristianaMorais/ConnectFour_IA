@@ -1,10 +1,9 @@
 # Connect Four AI 🔴🟡
-## Artificial Intelligence | 2018
+<b> Artificial Intelligence | 2018
 
-## 👥 Authors
-> Cristiana Silva (up201505454)
-
-> Sara Sousa (up201504217)
+👥 Authors
+<table><tr><td align="center"><a href="[https://github.com/CristianaMorais](https://github.com/CristianaMorais)"><img src="https://avatars.githubusercontent.com/u/20134178?v=4" width="100px;" alt="Cristiana Silva"/><br /><sub><b>Cristiana Silva (up201505454)</b></sub></a> </td> <td align="center"><a href="[https://github.com/SaraSousa97](https://github.com/SaraSousa97)"><img src="https://avatars.githubusercontent.com/u/27723920?v=4" width="100px;" alt="Sara Sousa"/><br /><sub><b>Sara Sousa (up201504217)</b></sub></a>
+</td></tr></table>
 
 ## 📖 Project Overview
 This project is a Java-based implementation of the classic Connect Four game, featuring a computer opponent powered by adversarial search algorithms. The objective is to be the first to align four pieces vertically, horizontally, or diagonally.
